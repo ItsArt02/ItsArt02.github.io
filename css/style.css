@@ -738,6 +738,7 @@ footer {
     padding-top: 34px;
     margin: 0 auto 32px;
     max-width: 760px;
+	align-content: center;
 }
 
 .video-share-wrapper {
