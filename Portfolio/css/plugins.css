@@ -14,20 +14,20 @@
 -----------------------------------------------------------------*/
 
 /* == Bootstrap == */
-@import url("plugins/bootstrap.min.css");
+@import url("Plugins/bootstrap.min.css");
 
 /* == Owl-carousel == */
-@import url("plugins/owl.carousel.min.css");
-@import url("plugins/owl.theme.default.min.css");
+@import url("Plugins/owl.carousel.min.css");
+@import url("Plugins/owl.theme.default.min.css");
 
 /* == Animated-headline == */
-@import url("plugins/animated-headline.css");
+@import url("Plugins/animated-headline.css");
 
 /* == Slicknav js == */
-@import url("plugins/slicknav.min.css");
+@import url("Plugins/slicknav.min.css");
 
 /* == Normalize == */
-@import url("plugins/normalize.css");
+@import url("Plugins/normalize.css");
 
 /* == Animate == */
-@import url("plugins/animate.css");
+@import url("Plugins/animate.css");
